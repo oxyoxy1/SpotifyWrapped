@@ -27,10 +27,6 @@ Visit Spotify Developer Dashboard to create an application and get the necessary
 
 ## Authentication:
 Replace the CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI with your own credentials in the script.
-Edit
-CLIENT_ID = "your_spotify_client_id"
-CLIENT_SECRET = "your_spotify_client_secret"
-REDIRECT_URI = "your_redirect_URI"
 
 # Run the Script:
 Once the dependencies are installed and the credentials are set up, run the script:
