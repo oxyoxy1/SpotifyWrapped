@@ -30,7 +30,7 @@ Replace the CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI with your own credentials
 Edit
 CLIENT_ID = "your_spotify_client_id"
 CLIENT_SECRET = "your_spotify_client_secret"
-REDIRECT_URI = "http://127.0.0.1:8888/callback/"
+REDIRECT_URI = "your_redirect_URI"
 
 # Run the Script:
 Once the dependencies are installed and the credentials are set up, run the script:
