@@ -44,11 +44,11 @@ Album Art Display: The program fetches and displays the album artwork for each t
 
 # Screenshots
 ## Playlist Length Prompt:
-
+![Screenshot](song_count_image.PNG)
 ## Top Tracks Popularity Chart:
-
+![Screenshot](track_popularity_image.PNG)
 ## Album Art Display:
-
+![Screenshot](top_tracks_image.PNG)
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
