@@ -14,9 +14,9 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %
 logger = logging.getLogger()
 
 # Spotify API credentials
-CLIENT_ID = "b9153b4c3cf34932b67c7ddc94c59d29"
-CLIENT_SECRET = "c1ed8e3d77984db992b4686d98790d04"
-REDIRECT_URI = "http://127.0.0.1:8888/callback/"
+CLIENT_ID = "YOUR_CLIENT_ID"
+CLIENT_SECRET = "YOUR_CLIENT_SECRET"
+REDIRECT_URI = "YOUR_REDIRECT_URI"
 
 # Scopes required for reading user data and creating/modifying playlists
 SCOPE = "user-library-read user-top-read playlist-modify-public playlist-modify-private"
